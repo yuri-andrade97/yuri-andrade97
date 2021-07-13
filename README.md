@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
-- 👯 I’m looking to collaborate on **ReactJS e Projetos de Desenvolvimento WEB**
+- 👯 I’m looking to collaborate on **ReactJS and Web Development Projects**
 
 - 💬 Ask me about **anything =)**
 
