@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri Andrade</h1>
-<h3 align="center">Desenvolvedor Front End - ReactJS | NextJS | JavaScript | HTML | CSS | SASS | Styled Components</h3>
+<h3 align="center">Desenvolvedor Full Stack - ReactJS | NextJS | JavaScript | NodeJS | Express | PostgreSQL | HTML | CSS | SASS | Styled Components</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuri-andrade97&label=Profile%20views&color=0e75b6&style=flat" alt="yuri-andrade97" /> </p>
 
